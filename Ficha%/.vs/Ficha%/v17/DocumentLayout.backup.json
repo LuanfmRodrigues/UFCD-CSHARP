@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luanf\\Desktop\\CSHARP\\Ficha%\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20D460A3-6623-4DEB-8D15-B393468DF1CA}|Ficha%\\Ficha%.csproj|c:\\users\\luanf\\desktop\\csharp\\ficha%\\ficha%\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D460A3-6623-4DEB-8D15-B393468DF1CA}|Ficha%\\Ficha%.csproj|solutionrelative:ficha%\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D460A3-6623-4DEB-8D15-B393468DF1CA}|Ficha%\\Ficha%.csproj|c:\\users\\luanf\\desktop\\csharp\\ficha%\\ficha%\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D460A3-6623-4DEB-8D15-B393468DF1CA}|Ficha%\\Ficha%.csproj|solutionrelative:ficha%\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D460A3-6623-4DEB-8D15-B393468DF1CA}|Ficha%\\Ficha%.csproj|c:\\users\\luanf\\desktop\\csharp\\ficha%\\ficha%\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D460A3-6623-4DEB-8D15-B393468DF1CA}|Ficha%\\Ficha%.csproj|solutionrelative:ficha%\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D460A3-6623-4DEB-8D15-B393468DF1CA}|Ficha%\\Ficha%.csproj|c:\\users\\luanf\\desktop\\csharp\\ficha%\\ficha%\\operario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D460A3-6623-4DEB-8D15-B393468DF1CA}|Ficha%\\Ficha%.csproj|solutionrelative:ficha%\\operario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 357,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\CSHARP\\Ficha%\\Ficha%\\Gerente.cs",
+              "RelativeDocumentMoniker": "Ficha%\\Gerente.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\CSHARP\\Ficha%\\Ficha%\\Gerente.cs",
+              "RelativeToolTip": "Ficha%\\Gerente.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:59:55.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operario.cs",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\CSHARP\\Ficha%\\Ficha%\\Operario.cs",
+              "RelativeDocumentMoniker": "Ficha%\\Operario.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\CSHARP\\Ficha%\\Ficha%\\Operario.cs",
+              "RelativeToolTip": "Ficha%\\Operario.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:37:56.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\CSHARP\\Ficha%\\Ficha%\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Ficha%\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\CSHARP\\Ficha%\\Ficha%\\Funcionario.cs",
+              "RelativeToolTip": "Ficha%\\Funcionario.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:24:57.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\CSHARP\\Ficha%\\Ficha%\\Program.cs",
+              "RelativeDocumentMoniker": "Ficha%\\Program.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\CSHARP\\Ficha%\\Ficha%\\Program.cs",
+              "RelativeToolTip": "Ficha%\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwCkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:19:24.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

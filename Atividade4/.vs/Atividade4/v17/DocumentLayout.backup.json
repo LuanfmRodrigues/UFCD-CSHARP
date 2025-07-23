@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luanf\\Desktop\\CSHARP\\Atividade4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8478E876-F549-42CC-A27D-372AC64E34C8}|Atividade4\\Atividade4.csproj|c:\\users\\luanf\\desktop\\csharp\\atividade4\\atividade4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8478E876-F549-42CC-A27D-372AC64E34C8}|Atividade4\\Atividade4.csproj|solutionrelative:atividade4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8478E876-F549-42CC-A27D-372AC64E34C8}|Atividade4\\Atividade4.csproj|c:\\users\\luanf\\desktop\\csharp\\atividade4\\atividade4\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8478E876-F549-42CC-A27D-372AC64E34C8}|Atividade4\\Atividade4.csproj|solutionrelative:atividade4\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luanf\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8478E876-F549-42CC-A27D-372AC64E34C8}|Atividade4\\Atividade4.csproj|c:\\users\\luanf\\desktop\\csharp\\atividade4\\atividade4\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8478E876-F549-42CC-A27D-372AC64E34C8}|Atividade4\\Atividade4.csproj|solutionrelative:atividade4\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8478E876-F549-42CC-A27D-372AC64E34C8}|Atividade4\\Atividade4.csproj|c:\\users\\luanf\\desktop\\csharp\\atividade4\\atividade4\\hora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8478E876-F549-42CC-A27D-372AC64E34C8}|Atividade4\\Atividade4.csproj|solutionrelative:atividade4\\hora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 123,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\CSHARP\\Atividade4\\Atividade4\\Data.cs",
+              "RelativeDocumentMoniker": "Atividade4\\Data.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\CSHARP\\Atividade4\\Atividade4\\Data.cs",
+              "RelativeToolTip": "Atividade4\\Data.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:25:41.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\CSHARP\\Atividade4\\Atividade4\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Atividade4\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\CSHARP\\Atividade4\\Atividade4\\Pessoa.cs*",
+              "RelativeToolTip": "Atividade4\\Pessoa.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:47:10.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\CSHARP\\Atividade4\\Atividade4\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade4\\Program.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\CSHARP\\Atividade4\\Atividade4\\Program.cs",
+              "RelativeToolTip": "Atividade4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:41:16.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\luanf\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\luanf\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAowNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-08T13:24:12.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hora.cs",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\CSHARP\\Atividade4\\Atividade4\\Hora.cs",
+              "RelativeDocumentMoniker": "Atividade4\\Hora.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\CSHARP\\Atividade4\\Atividade4\\Hora.cs",
+              "RelativeToolTip": "Atividade4\\Hora.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:40:37.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

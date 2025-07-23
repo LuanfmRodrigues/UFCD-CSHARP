@@ -1,0 +1,14 @@
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\obj\Debug\net8.0\Atividade4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\obj\Debug\net8.0\Atividade4.AssemblyInfoInputs.cache
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\obj\Debug\net8.0\Atividade4.AssemblyInfo.cs
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\obj\Debug\net8.0\Atividade4.csproj.CoreCompileInputs.cache
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\bin\Debug\net8.0\Atividade4.exe
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\bin\Debug\net8.0\Atividade4.deps.json
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\bin\Debug\net8.0\Atividade4.runtimeconfig.json
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\bin\Debug\net8.0\Atividade4.dll
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\bin\Debug\net8.0\Atividade4.pdb
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\obj\Debug\net8.0\Atividade4.dll
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\obj\Debug\net8.0\refint\Atividade4.dll
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\obj\Debug\net8.0\Atividade4.pdb
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\obj\Debug\net8.0\Atividade4.genruntimeconfig.cache
+C:\Users\luanf\Desktop\CSHARP\Atividade4\Atividade4\obj\Debug\net8.0\ref\Atividade4.dll

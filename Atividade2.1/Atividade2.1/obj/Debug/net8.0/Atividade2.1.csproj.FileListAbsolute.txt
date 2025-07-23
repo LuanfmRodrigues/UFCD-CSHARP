@@ -1,0 +1,14 @@
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\bin\Debug\net8.0\Atividade2.1.exe
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\bin\Debug\net8.0\Atividade2.1.deps.json
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\bin\Debug\net8.0\Atividade2.1.runtimeconfig.json
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\bin\Debug\net8.0\Atividade2.1.dll
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\bin\Debug\net8.0\Atividade2.1.pdb
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\obj\Debug\net8.0\Atividade2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\obj\Debug\net8.0\Atividade2.1.AssemblyInfoInputs.cache
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\obj\Debug\net8.0\Atividade2.1.AssemblyInfo.cs
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\obj\Debug\net8.0\Atividade2.1.csproj.CoreCompileInputs.cache
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\obj\Debug\net8.0\Atividade2.1.dll
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\obj\Debug\net8.0\refint\Atividade2.1.dll
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\obj\Debug\net8.0\Atividade2.1.pdb
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\obj\Debug\net8.0\Atividade2.1.genruntimeconfig.cache
+C:\Users\luanf\Desktop\Atividade2.1\Atividade2.1\obj\Debug\net8.0\ref\Atividade2.1.dll

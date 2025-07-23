@@ -1,0 +1,10 @@
+C:\Users\luanf\Desktop\CSHARP\TesteForms\testLogin\testLogin\bin\Debug\testLogin.exe.config
+C:\Users\luanf\Desktop\CSHARP\TesteForms\testLogin\testLogin\bin\Debug\testLogin.exe
+C:\Users\luanf\Desktop\CSHARP\TesteForms\testLogin\testLogin\bin\Debug\testLogin.pdb
+C:\Users\luanf\Desktop\CSHARP\TesteForms\testLogin\testLogin\obj\Debug\testLogin.csproj.AssemblyReference.cache
+C:\Users\luanf\Desktop\CSHARP\TesteForms\testLogin\testLogin\obj\Debug\testLogin.Form1.resources
+C:\Users\luanf\Desktop\CSHARP\TesteForms\testLogin\testLogin\obj\Debug\testLogin.Properties.Resources.resources
+C:\Users\luanf\Desktop\CSHARP\TesteForms\testLogin\testLogin\obj\Debug\testLogin.csproj.GenerateResource.cache
+C:\Users\luanf\Desktop\CSHARP\TesteForms\testLogin\testLogin\obj\Debug\testLogin.csproj.CoreCompileInputs.cache
+C:\Users\luanf\Desktop\CSHARP\TesteForms\testLogin\testLogin\obj\Debug\testLogin.exe
+C:\Users\luanf\Desktop\CSHARP\TesteForms\testLogin\testLogin\obj\Debug\testLogin.pdb

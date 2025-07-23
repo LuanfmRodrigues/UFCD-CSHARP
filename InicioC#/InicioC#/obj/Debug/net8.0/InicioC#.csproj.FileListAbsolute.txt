@@ -1,0 +1,14 @@
+C:\Users\luanf\Desktop\InicioC#\InicioC#\bin\Debug\net8.0\InicioC#.exe
+C:\Users\luanf\Desktop\InicioC#\InicioC#\bin\Debug\net8.0\InicioC#.deps.json
+C:\Users\luanf\Desktop\InicioC#\InicioC#\bin\Debug\net8.0\InicioC#.runtimeconfig.json
+C:\Users\luanf\Desktop\InicioC#\InicioC#\bin\Debug\net8.0\InicioC#.dll
+C:\Users\luanf\Desktop\InicioC#\InicioC#\bin\Debug\net8.0\InicioC#.pdb
+C:\Users\luanf\Desktop\InicioC#\InicioC#\obj\Debug\net8.0\InicioC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\Desktop\InicioC#\InicioC#\obj\Debug\net8.0\InicioC#.AssemblyInfoInputs.cache
+C:\Users\luanf\Desktop\InicioC#\InicioC#\obj\Debug\net8.0\InicioC#.AssemblyInfo.cs
+C:\Users\luanf\Desktop\InicioC#\InicioC#\obj\Debug\net8.0\InicioC#.csproj.CoreCompileInputs.cache
+C:\Users\luanf\Desktop\InicioC#\InicioC#\obj\Debug\net8.0\InicioC#.dll
+C:\Users\luanf\Desktop\InicioC#\InicioC#\obj\Debug\net8.0\refint\InicioC#.dll
+C:\Users\luanf\Desktop\InicioC#\InicioC#\obj\Debug\net8.0\InicioC#.pdb
+C:\Users\luanf\Desktop\InicioC#\InicioC#\obj\Debug\net8.0\InicioC#.genruntimeconfig.cache
+C:\Users\luanf\Desktop\InicioC#\InicioC#\obj\Debug\net8.0\ref\InicioC#.dll

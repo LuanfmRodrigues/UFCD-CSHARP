@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9R0x7E1DH4g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luanf\\Desktop\\CSHARP\\Atividade4\\Atividade4\\Atividade4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luanf\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

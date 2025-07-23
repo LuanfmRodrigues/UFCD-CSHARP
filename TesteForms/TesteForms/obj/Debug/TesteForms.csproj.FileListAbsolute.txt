@@ -1,0 +1,10 @@
+C:\Users\luanf\Desktop\CSHARP\TesteForms\TesteForms\bin\Debug\TesteForms.exe.config
+C:\Users\luanf\Desktop\CSHARP\TesteForms\TesteForms\bin\Debug\TesteForms.exe
+C:\Users\luanf\Desktop\CSHARP\TesteForms\TesteForms\bin\Debug\TesteForms.pdb
+C:\Users\luanf\Desktop\CSHARP\TesteForms\TesteForms\obj\Debug\TesteForms.csproj.AssemblyReference.cache
+C:\Users\luanf\Desktop\CSHARP\TesteForms\TesteForms\obj\Debug\TesteForms.Form1.resources
+C:\Users\luanf\Desktop\CSHARP\TesteForms\TesteForms\obj\Debug\TesteForms.Properties.Resources.resources
+C:\Users\luanf\Desktop\CSHARP\TesteForms\TesteForms\obj\Debug\TesteForms.csproj.GenerateResource.cache
+C:\Users\luanf\Desktop\CSHARP\TesteForms\TesteForms\obj\Debug\TesteForms.csproj.CoreCompileInputs.cache
+C:\Users\luanf\Desktop\CSHARP\TesteForms\TesteForms\obj\Debug\TesteForms.exe
+C:\Users\luanf\Desktop\CSHARP\TesteForms\TesteForms\obj\Debug\TesteForms.pdb

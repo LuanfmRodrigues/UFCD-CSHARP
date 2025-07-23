@@ -1,0 +1,28 @@
+C:\Users\luanf\Desktop\atividada2\atividada2\bin\Debug\net8.0\atividada2.exe
+C:\Users\luanf\Desktop\atividada2\atividada2\bin\Debug\net8.0\atividada2.deps.json
+C:\Users\luanf\Desktop\atividada2\atividada2\bin\Debug\net8.0\atividada2.runtimeconfig.json
+C:\Users\luanf\Desktop\atividada2\atividada2\bin\Debug\net8.0\atividada2.dll
+C:\Users\luanf\Desktop\atividada2\atividada2\bin\Debug\net8.0\atividada2.pdb
+C:\Users\luanf\Desktop\atividada2\atividada2\obj\Debug\net8.0\atividada2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\Desktop\atividada2\atividada2\obj\Debug\net8.0\atividada2.AssemblyInfoInputs.cache
+C:\Users\luanf\Desktop\atividada2\atividada2\obj\Debug\net8.0\atividada2.AssemblyInfo.cs
+C:\Users\luanf\Desktop\atividada2\atividada2\obj\Debug\net8.0\atividada2.csproj.CoreCompileInputs.cache
+C:\Users\luanf\Desktop\atividada2\atividada2\obj\Debug\net8.0\atividada2.dll
+C:\Users\luanf\Desktop\atividada2\atividada2\obj\Debug\net8.0\refint\atividada2.dll
+C:\Users\luanf\Desktop\atividada2\atividada2\obj\Debug\net8.0\atividada2.pdb
+C:\Users\luanf\Desktop\atividada2\atividada2\obj\Debug\net8.0\atividada2.genruntimeconfig.cache
+C:\Users\luanf\Desktop\atividada2\atividada2\obj\Debug\net8.0\ref\atividada2.dll
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\bin\Debug\net8.0\atividada2.exe
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\bin\Debug\net8.0\atividada2.deps.json
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\bin\Debug\net8.0\atividada2.runtimeconfig.json
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\bin\Debug\net8.0\atividada2.dll
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\bin\Debug\net8.0\atividada2.pdb
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\obj\Debug\net8.0\atividada2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\obj\Debug\net8.0\atividada2.AssemblyInfoInputs.cache
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\obj\Debug\net8.0\atividada2.AssemblyInfo.cs
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\obj\Debug\net8.0\atividada2.csproj.CoreCompileInputs.cache
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\obj\Debug\net8.0\atividada2.dll
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\obj\Debug\net8.0\refint\atividada2.dll
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\obj\Debug\net8.0\atividada2.pdb
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\obj\Debug\net8.0\atividada2.genruntimeconfig.cache
+C:\Users\luanf\Desktop\CSHARP\Atividade 2\atividada2\atividada2\obj\Debug\net8.0\ref\atividada2.dll

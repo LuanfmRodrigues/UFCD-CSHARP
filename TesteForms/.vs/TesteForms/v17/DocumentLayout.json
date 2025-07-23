@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luanf\\Desktop\\CSHARP\\TesteForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D12662-BECE-439F-9008-03BC733FCB25}|TesteForms\\TesteForms.csproj|c:\\users\\luanf\\desktop\\csharp\\testeforms\\testeforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D12662-BECE-439F-9008-03BC733FCB25}|TesteForms\\TesteForms.csproj|solutionrelative:testeforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D12662-BECE-439F-9008-03BC733FCB25}|TesteForms\\TesteForms.csproj|C:\\Users\\luanf\\Desktop\\CSHARP\\TesteForms\\testeforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D12662-BECE-439F-9008-03BC733FCB25}|TesteForms\\TesteForms.csproj|solutionrelative:testeforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D12662-BECE-439F-9008-03BC733FCB25}|TesteForms\\TesteForms.csproj|C:\\Users\\luanf\\Desktop\\CSHARP\\TesteForms\\testeforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19D12662-BECE-439F-9008-03BC733FCB25}|TesteForms\\TesteForms.csproj|solutionrelative:testeforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\CSHARP\\TesteForms\\TesteForms\\Form1.cs",
+              "RelativeDocumentMoniker": "TesteForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\CSHARP\\TesteForms\\TesteForms\\Form1.cs",
+              "RelativeToolTip": "TesteForms\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDcAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:53:06.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\CSHARP\\TesteForms\\TesteForms\\Program.cs",
+              "RelativeDocumentMoniker": "TesteForms\\Program.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\CSHARP\\TesteForms\\TesteForms\\Program.cs",
+              "RelativeToolTip": "TesteForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:49:33.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\CSHARP\\TesteForms\\TesteForms\\Form1.cs",
+              "RelativeDocumentMoniker": "TesteForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\CSHARP\\TesteForms\\TesteForms\\Form1.cs [Design]",
+              "RelativeToolTip": "TesteForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:16:59.371Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

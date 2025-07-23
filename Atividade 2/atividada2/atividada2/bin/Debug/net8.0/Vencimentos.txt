@@ -1,0 +1,8 @@
+1 luan 1800
+2 hiago 1700
+3 diogo 1000
+4 helom 900
+5 joao 1200
+6 Henrique 800
+7 ivo 600
+8 diogoM 1100

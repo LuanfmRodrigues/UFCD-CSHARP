@@ -1,0 +1,14 @@
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\bin\Debug\net8.0\Ficha%.exe
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\bin\Debug\net8.0\Ficha%.deps.json
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\bin\Debug\net8.0\Ficha%.runtimeconfig.json
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\bin\Debug\net8.0\Ficha%.dll
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\bin\Debug\net8.0\Ficha%.pdb
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\obj\Debug\net8.0\Ficha%.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\obj\Debug\net8.0\Ficha%.AssemblyInfoInputs.cache
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\obj\Debug\net8.0\Ficha%.AssemblyInfo.cs
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\obj\Debug\net8.0\Ficha%.csproj.CoreCompileInputs.cache
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\obj\Debug\net8.0\Ficha%.dll
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\obj\Debug\net8.0\refint\Ficha%.dll
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\obj\Debug\net8.0\Ficha%.pdb
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\obj\Debug\net8.0\Ficha%.genruntimeconfig.cache
+C:\Users\luanf\Desktop\CSHARP\Ficha%\Ficha%\obj\Debug\net8.0\ref\Ficha%.dll

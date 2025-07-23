@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luanf\\Desktop\\atividade!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6582072-9197-4B01-8750-137D94339B11}|atividade!\\atividade!.csproj|c:\\users\\luanf\\desktop\\atividade!\\atividade!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6582072-9197-4B01-8750-137D94339B11}|atividade!\\atividade!.csproj|solutionrelative:atividade!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 136,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luanf\\Desktop\\atividade!\\atividade!\\Program.cs",
+              "RelativeDocumentMoniker": "atividade!\\Program.cs",
+              "ToolTip": "C:\\Users\\luanf\\Desktop\\atividade!\\atividade!\\Program.cs",
+              "RelativeToolTip": "atividade!\\Program.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAASwCcBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:41:26.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
